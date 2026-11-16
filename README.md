@@ -7,9 +7,8 @@ ViDimABSA is, to our knowledge, the first Vietnamese dataset for **dimensional a
 
 The dataset contains **5,743 sentences** and **6,882 (aspect, category, opinion, valence, arousal) quadruplets**. The sentences come from Vietnamese reviews of consumer apps: e-commerce, food delivery, ride-hailing and digital banking. The dataset supports all three subtasks of SemEval-2026 Task 3 (DimABSA).
 
-ViDimABSA was the official dataset of the preliminary round of the **2026 Vietnam Student Olympiad in Artificial Intelligence** (Olympic Trí tuệ Nhân tạo Sinh viên Việt Nam 2026), in which 189 university teams took part.
 
-> 📄 **Paper:** *ViDimABSA: A Vietnamese Dataset and Benchmark for Dimensional Aspect-Based Sentiment Analysis*, Tam Khoi Tran and Phuoc Tran. Under review at PLOS ONE.
+> 📄 **Paper:** *ViDimABSA: A Vietnamese Dataset and Benchmark for Dimensional Aspect-Based Sentiment Analysis*, Tam Khoi Tran and Phuoc Tran. Under review at IEEE Access.
 
 ---
 
@@ -125,7 +124,3 @@ On DimASTE and DimASR, QLoRA models were trained with a single seed.
 **Phuoc Tran** (corresponding author): Natural Language Processing and Knowledge Discovery Research Group, Faculty of Information Technology, Ton Duc Thang University. Email: tranhthanhphuoc@tdtu.edu.vn
 
 Questions and issues are welcome via [GitHub Issues](https://github.com/tamkhojj/ViDimABSA/issues).
-
-## Acknowledgments
-
-We thank the organisers and participants of the 2026 Vietnam Student Olympiad in Artificial Intelligence.
